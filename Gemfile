@@ -61,3 +61,16 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+gem "sassc-rails"
+gem 'sprockets-rails'
+gem 'activeadmin'
+gem 'devise'
+gem 'cancancan'
+gem 'draper'
+gem 'pundit'
+gem "cssbundling-rails", "~> 1.4"
+gem "country-select"
+
+gem 'bcrypt'
+gem 'rack-cors'
+gem 'active_model_serializers'
